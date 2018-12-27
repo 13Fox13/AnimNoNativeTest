@@ -1,0 +1,3 @@
+rootProject.name = 'AnimNoNativeTest'
+
+include ':app'
